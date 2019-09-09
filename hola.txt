@@ -1,0 +1,23 @@
+commit c219b54fd048b3acf27fc6bf4b01c02d70fb77bc
+Author: sergioLopezR <43897017+sergioLopezR@users.noreply.github.com>
+Date:   Mon Sep 2 08:42:30 2019 -0700
+
+    Create README.md
+
+commit 4221ee7e02cea6f32fb514ee7d1e96592abf4955
+Author: sergioLopezR <selopezro@ittepic.edu.mx>
+Date:   Mon Sep 2 08:02:12 2019 -0700
+
+    Se ha agregado un git ignore
+
+commit 9910b380d32a877e37fca75ce717e398505f9bd4
+Author: sergioLopezR <selopezro@ittepic.edu.mx>
+Date:   Thu Aug 29 08:25:45 2019 -0700
+
+    Codigo HTML
+
+commit 608664c2d11fb0226d8735ee65df488726402818
+Author: sergioLopezR <selopezro@ittepic.edu.mx>
+Date:   Wed Aug 28 09:35:21 2019 -0700
+
+    Mi primer proyecto
